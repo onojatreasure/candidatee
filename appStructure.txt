@@ -1,0 +1,21 @@
++candidate_project
+|
++...+candidate_register
+|   |
+|...+...migrations 
+|   |
+|   |...+templates
+|   |   |...+ candidate_register
+|   |   |   |...base.html
+|   |   |   |...candidate_form.html
+|   |   |   |...candidate_list.html
+|   |
+|   |...models.py
+|   |...forms
+|   |...urls.py
+|   |...views
+|
++...+ candidate_project (project folder)
+|   |
+|   |...settings.py
+|   |...urls.py
